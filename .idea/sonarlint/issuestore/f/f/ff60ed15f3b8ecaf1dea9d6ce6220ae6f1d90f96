@@ -1,0 +1,8 @@
+
+l
+java:S2629*"$Invoke method(s) only conditionally.(ÔÓøúÿÿÿÿ8¶Œ¯ì1J$15c78565-5a83-4519-adae-0e46cd341fb7
+X	java:S125"<This block of commented-out lines of code should be removed.(×€Áå8§ïµ°ì1
+©
+java:S3457*"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(ÔÓøúÿÿÿÿ8¿Œ¯ì1J$f58c1271-e395-4cab-a861-59efb05571aa
+m
+java:S1128"PRemove this unused import 'org.springframework.kafka.annotation.TopicPartition'.(òï¶ş8©ïµ°ì1

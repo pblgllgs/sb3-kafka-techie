@@ -1,0 +1,29 @@
+
+…
+java:S2094"BRemove this empty class, write its code or make it an "interface".(É—ÍÚ8€û–°ì1J$2c63cd95-0747-449d-bac1-7a2df76e3a3b
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(á¤ª¿ûÿÿÿÿ8‚û–°ì1J$cdf387ef-b0e8-4c12-8cf5-8ed4282200d7
+•
+java:S1128	"MRemove this unused import 'org.apache.kafka.clients.consumer.ConsumerConfig'.(éöò˜üÿÿÿÿ8ƒû–°ì1J$c9543d87-9ebc-41cc-a3d3-496ee7c5dc7f
+
+java:S1128
+"URemove this unused import 'org.apache.kafka.common.serialization.StringDeserializer'.(ì¶³ùÿÿÿÿ8ƒû–°ì1J$a3c3ebc2-3d3d-4668-840d-990fd3fa103b
+‹
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Þ8ƒû–°ì1J$f9d24a69-cf6a-43aa-9e3c-a7fea301115c
+™
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.Configuration'.(¬²Úäþÿÿÿÿ8ƒû–°ì1J$5402e023-c9cb-430d-a44f-9335125fee06
+§
+java:S1128"eRemove this unused import 'org.springframework.kafka.config.ConcurrentKafkaListenerContainerFactory'.(Âàˆ\8ƒû–°ì1J$e33b24dd-0921-4637-862f-a5b178addfa1
+£
+java:S1128"[Remove this unused import 'org.springframework.kafka.config.KafkaListenerContainerFactory'.(‚ÒÜýÿÿÿÿ8„û–°ì1J$7dd68240-f6a4-46a6-a720-915c23c1e7d6
+“
+java:S1128"KRemove this unused import 'org.springframework.kafka.core.ConsumerFactory'.(ïáÌ‹ÿÿÿÿÿ8„û–°ì1J$61affe6d-66ef-4b7f-9afc-19ccb0a51ece
+š
+java:S1128"WRemove this unused import 'org.springframework.kafka.core.DefaultKafkaConsumerFactory'.(õÊºâ8„û–°ì1J$b0503f99-a66f-469f-b917-84063ca0118d
+¥
+java:S1128"bRemove this unused import 'org.springframework.kafka.listener.ConcurrentMessageListenerContainer'.(²–Åº8„û–°ì1J$58d79773-ca83-4e13-abbb-42614551b634
+
+java:S1128"ZRemove this unused import 'org.springframework.kafka.support.serializer.JsonDeserializer'.(šÉäü8„û–°ì1J$ef303d6c-ca69-4f0b-8836-213912a8e330
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8„û–°ì1J$2f32ef9a-58d4-4a03-a6df-a9919e7d5b06
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8„û–°ì1J$a32573aa-6790-47b8-87c8-d167ab7c184e

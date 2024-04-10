@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "name": "studentFirstName",
+      "type": "string"
+    },
+    {
+      "name": "studentLastName",
+      "type": "string"
+    },
+    {
+      "name": "studentId",
+      "type": "string"
+    },
+    {
+      "name": "age",
+      "type": "int"
+    }
+  ],
+  "name": "Student",
+  "namespace": "com.pblgllgs.dto",
+  "type": "record"
+}

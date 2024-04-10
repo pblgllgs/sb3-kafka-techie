@@ -1,0 +1,9 @@
+
+	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8â›Ü§ì1J$5b6318ab-fa70-462b-b6be-f95abecdd7d7
+~	java:S125)"<This block of commented-out lines of code should be removed.(Äí……8¼èˆ¯ì1J$8929cdfb-c617-45eb-bef1-33cbfc01952a
+©
+java:S34577"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(ôÏğéıÿÿÿÿ8ºİ§¨ì1J$7dddda32-9ae7-4fad-8301-213e0b342e98
+©
+java:S34579"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(ä¢÷¬üÿÿÿÿ8»İ§¨ì1J$d2a6f6fc-ae16-4931-86a9-d41f7c13ae96
+›
+java:S2139<"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾8öíİ§ì1J$354bc90e-1fa6-4da5-8eaa-43aab33b1f21
